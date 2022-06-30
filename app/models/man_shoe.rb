@@ -1,0 +1,2 @@
+class ManShoe < ApplicationRecord
+end

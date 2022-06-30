@@ -1,0 +1,2 @@
+module ManShoesHelper
+end
